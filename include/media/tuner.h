@@ -138,6 +138,15 @@
 #define TUNER_XC4000			87	/* Xceive Silicon Tuner */
 #define TUNER_XC5000C			88	/* Xceive Silicon Tuner */
 
+<<<<<<< HEAD
+=======
+#define TUNER_SONY_BTF_PG472Z		89	/* PAL+SECAM */
+#define TUNER_SONY_BTF_PK467Z		90	/* NTSC_JP */
+#define TUNER_SONY_BTF_PB463Z		91	/* NTSC */
+
+#define TUNER_SILABS_TERCAB		92  /* Silicon Labs terrestrial/cable tuner series */
+
+>>>>>>> d84ca57... Add support for Hauppauge Digital TV Tuner for Xbox One aka Hauppauge WinTV-HVR-955Q
 /* tv card specific */
 #define TDA9887_PRESENT 		(1<<0)
 #define TDA9887_PORT1_INACTIVE 		(1<<1)
